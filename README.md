@@ -1,4 +1,4 @@
-<B>MarketPulse – AI-Powered Product Feedback & Analytics Dashboard
+<B>MarketPulse- User Feedback Dashboard
 <br>A feedback website created with React, Express.js, and MongoDB! Here, users can sign up, log in securely, and share their thoughts through three specific forms. But that's not all! We've also made a powerful dashboard for admins. They can peek into all the feedback data, track trends, and swiftly handle user issues. 
 Goal-To transform how feedback is managed!
 
